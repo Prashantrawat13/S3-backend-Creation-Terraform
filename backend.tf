@@ -10,3 +10,8 @@ terraform {
   }
 }
 */
+
+
+// End of s3 backend creation
+
+# To access the Above S3 backend creation code, remove the comment syntax (/*):in line 3 and (*/): in line 12
