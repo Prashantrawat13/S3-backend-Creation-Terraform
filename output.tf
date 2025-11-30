@@ -1,5 +1,5 @@
 output "S3-bucket-name" {
-  value       = aws_s3_bucket.Buckets3.bucket
+  value       = aws_s3_bucket.s3-backend-30-11.bucket
   description = "The name of the S3 bucket created"
 }
 
